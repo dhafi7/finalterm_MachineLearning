@@ -291,7 +291,6 @@ Both projects apply a complete machine learning workflow, including data preproc
 
 ## Author
 
-Name: Hadi Nugroho
-Class: TK-47-02
-NIM: 101032330235
-Course: Machine Learning and Deep Learning
+Name: Dhafi Dzakwan Pratama
+NIM: 101032300213
+Course: Machine Learning 
