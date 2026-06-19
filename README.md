@@ -1,8 +1,8 @@
-# Final Term Machine Learning and Deep Learning
+# Final Term Machine Learning 
 
 ## Project Overview
 
-This repository contains the final term project for the Machine Learning and Deep Learning course. The project focuses on building end-to-end machine learning and deep learning pipelines using the provided datasets.
+This repository contains the final term project for the Machine Learning course. The project focuses on building end-to-end machine learning and deep learning pipelines using the provided datasets.
 
 There are two main tasks in this repository:
 
