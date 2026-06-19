@@ -161,10 +161,10 @@ The regression models are evaluated using the following metrics:
 
 | Model                                      |       MSE |      RMSE |       MAE |        R² |
 | ------------------------------------------ | --------: | --------: | --------: | --------: |
-| Linear Regression                          | isi nilai | isi nilai | isi nilai | isi nilai |
-| Ridge Regression / Random Forest Regressor | isi nilai | isi nilai | isi nilai | isi nilai |
-| Deep Learning MLP                          | isi nilai | isi nilai | isi nilai | isi nilai |
-| Optuna Tuned Deep Learning MLP             | isi nilai | isi nilai | isi nilai | isi nilai |
+| Linear Regression                          | 88.77622156994971 | 9.422113434360133 | 6.7022324229875805 | 0.2540754810273097 |
+| Ridge Regression / Random Forest Regressor | 90.4203940284359 | 9.50896387775429 | 6.837260834503718 | 0.2402606494370949|
+| Deep Learning MLP                          | 102.98397827148438 | 10.148102200484796 | 7.324620723724365 | 0.1346975564956665 |
+| Optuna Tuned Deep Learning MLP             | 17473.599609375 | 132.18774379410144 | 62.282779693603516 | -145.81845092773438 |
 
 ### Regression Interpretation
 
