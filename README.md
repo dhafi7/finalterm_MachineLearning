@@ -89,9 +89,9 @@ Because fraud detection is an imbalanced classification problem, the model is ev
 
 | Model                 |  Accuracy | Precision |    Recall |  F1-Score |   ROC-AUC |    PR-AUC |
 | --------------------- | --------: | --------: | --------: | --------: | --------: | --------: |
-| Baseline MLP          | isi nilai | isi nilai | isi nilai | isi nilai | isi nilai | isi nilai |
-| MLP Dropout BatchNorm | isi nilai | isi nilai | isi nilai | isi nilai | isi nilai | isi nilai |
-| Optuna Tuned MLP      | isi nilai | isi nilai | isi nilai | isi nilai | isi nilai | isi nilai |
+| Baseline MLP          | 0.8540149693500864 | 0.16051173149634848 | 0.749818533752722 | 0.264419795221843 | 0.8852934944887705 | 0.5043555168348876 |
+| MLP Dropout BatchNorm | 0.7900480915772006 | 0.11724827739497666 | 0.7657875635131866 | 0.2033604266392521 | 0.8608997276188577 | 0.43471491458268263 |
+| Optuna Tuned MLP      | 0.8914637450469062 | 0.19857023875624652 | 0.6922332446165014 | 0.3086133434011111 | 0.8831503251691522 | 0.49185120590984643 |
 
 ### Classification Interpretation
 
